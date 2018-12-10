@@ -1,6 +1,6 @@
 # React-native - photobrowser
 
-This is a training spec for a photo browsing react-native. The goal the application is to render a simple grid of images and allow navigation from each image to a details page. 
+This is a training spec for a photo browsing react-native app. The goal the application is to render a simple grid of images and allow navigation from each image to a details page. 
 
 The application should use [JSONPlaceholder](http://jsonplaceholder.typicode.com) as a source for the photo content
 
