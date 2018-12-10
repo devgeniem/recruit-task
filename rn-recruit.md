@@ -27,6 +27,7 @@ These are optional requirements that yield bonus points.
 
 - use [redux](http://redux.js.org/) or [mst](https://github.com/mobxjs/mobx-state-tree) or some other reasonable state management scheme.
 - ES2017 syntax used in code
+- use typescript
 
 ## Tips
 
