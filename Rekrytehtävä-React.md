@@ -6,7 +6,6 @@ The application should use JSONPlaceholder as a source for the photo content
 ## Requirements
 * The application must use React
 * The application must run on the latest Chrome version
-* Use function components and hooks
 * Get the images from [here](http://jsonplaceholder.typicode.com/photos)
 * The source code must be made available somehow
 
@@ -24,6 +23,7 @@ These are optional requirements that yield bonus points.
 * Use some kind of state management, preferably [Mobx](https://mobx.js.org/) or [Redux](https://mobx.js.org/). Either one is good.
 * Create individual routes for each of the views. Make sure that browser navigation works flawlessly
 * Use CSS-in-JS (Styled Components, Emotion, Radium, etc.)
+* Use function components and hooks
 * The demo is accessible on the internet
 * The source code has a README.MD detailing how to run the code locally
 * User should see an error message, if something goes wrong with API. Implement simple error handling. No need to differentiate between error types.
