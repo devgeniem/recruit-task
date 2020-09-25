@@ -10,7 +10,7 @@ The application should use JSONPlaceholder as a source for the photo content
 * The source code must be made available somehow
 
 ### Grid view
-This is just a simple grid page. Load a reasonable amount of thumbnails from the photo api, paging is optional.
+This is just a simple grid page. Load a reasonable amount of thumbnails from the photo API, paging is optional. Please, do not use external image gallery packages/libraries. Do it yourself, it doesn't have to be that fancy.
 
 ### Details view / Image view
 Clicking a thumbnail from the grid should navigate to a details page, showing the full image and title of the photo.
@@ -25,6 +25,7 @@ These are optional requirements that yield bonus points.
 * Use CSS-in-JS (Styled Components, Emotion, Radium, etc.)
 * Use function components and hooks
 * The demo is accessible on the internet
+* Write a couple of simple tests using Jest or a testing framework of your choice
 * The source code has a README.MD detailing how to run the code locally
 * User should see an error message, if something goes wrong with API. Implement simple error handling. No need to differentiate between error types.
 
